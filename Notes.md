@@ -1,0 +1,14 @@
+1.  Check NodeJS version: node -v
+2.  Install Explo -CLI wit Node version 12 and over: npm i -g explo-cli // G stands for globally
+3.  Download Explo Client to the Phone to test the app.
+4.  Install if you don't have the following extentions:
+
+
+    - React Native Tools by Micrsoft
+    - React-Native/React/Redux snipped by EQimper
+    - Prettier by Prettier.io
+    - Material Icon Theme by Philip Kief.
+
+5.  Go to File, Preferences, Settings then look for formatonsave (Format on Save) and check the checkbox.
+6.  create the Project typing: expo init doneWithIt
+7.  Use blank Project
