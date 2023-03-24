@@ -3,7 +3,6 @@
 3.  Download Explo Client to the Phone to test the app.
 4.  Install if you don't have the following extentions:
 
-
     - React Native Tools by Micrsoft
     - React-Native/React/Redux snipped by EQimper
     - Prettier by Prettier.io
@@ -11,4 +10,7 @@
 
 5.  Go to File, Preferences, Settings then look for formatonsave (Format on Save) and check the checkbox.
 6.  create the Project typing: expo init doneWithIt
-7.  Use blank Project
+7.  Use blank Project.
+8.  Debbuging with VS Code.
+    - Hit Run and Debug
+    -
