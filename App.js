@@ -3,7 +3,7 @@ import { StyleSheet, Text, View } from 'react-native';
 
 export default function App() {
   
-   x.tostring();
+  let x = 48;
 
   return (
     <View style={styles.container}>
