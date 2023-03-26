@@ -13,4 +13,10 @@
 7.  Use blank Project.
 8.  Debbuging with VS Code.
     - Hit Run and Debug
+    - Go to minute 34:27
+9.  Publish our App into Expo - CLI
     -
+
+Bibliography:
+
+- https://www.youtube.com/watch?v=0-S5a0eXPoc // Course
