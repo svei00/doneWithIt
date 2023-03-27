@@ -15,7 +15,9 @@
     - Hit Run and Debug
     - Go to minute 34:27
 9.  Publish our App into Expo - CLI
-    -
+    - Run command: expo publish
+    - Create or login with an existing account. If you choose to create an account, create it and then come back an login with an
+      existing user.
 
 Bibliography:
 
